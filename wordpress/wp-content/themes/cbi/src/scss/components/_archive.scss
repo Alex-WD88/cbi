@@ -1,0 +1,31 @@
+div.archive-block {
+  display: block;
+  margin: 10px 0 40px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  .link-page-title {
+    display: block;
+    color: #ff6600;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-decoration: none;
+    &:hover {
+      color: #333;
+    }
+  }
+  .date {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  .content {
+    padding-bottom: 18px;
+    p {
+      font-size: 16px;
+    }
+    img {
+      width: 100%;
+    }
+  }
+}

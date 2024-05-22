@@ -1,0 +1,2283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: antiarnaques\n"
+"POT-Creation-Date: 2021-04-29 08:38+0300\n"
+"PO-Revision-Date: 2021-04-29 08:38+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: gulpfile.babel.js\n"
+"X-Poedit-SearchPathExcluded-2: gulpfile.config.js\n"
+"X-Poedit-SearchPathExcluded-3: gulpfile.config-default.js\n"
+"X-Poedit-SearchPathExcluded-4: .git\n"
+
+#: footer.php:17
+msgid "sign up"
+msgstr ""
+
+#: footer.php:48
+msgid "AntiArnaques © 2010 - 2019"
+msgstr ""
+
+#: header.php:46
+msgid ""
+"Forum interactif francophone qui lutte contre les arnaques sentimentales de "
+"l’Europe de l’Est"
+msgstr ""
+
+#: inc/widgets/stl_widget.php:59
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: template-parts/components/content-page.php:11
+msgid "Home"
+msgstr "Accueil"
+
+#: template-parts/sections/alerts_section.php:4
+msgid "Our free dating scam alert website mission"
+msgstr "Notre mission de site Web d'alerte d'escroquerie gratuite"
+
+#: template-parts/sections/alerts_section.php:13
+msgid ""
+"We are an interactive scam alert website where men help each other to be "
+"protected against online Russian romance scams: email scams, dating site "
+"scams. Site users can participate in the dating scams forum: leave reviews "
+"and testimonials about Russian dating sites and Ukraine marriage agencies "
+"scams, do scam search at Russian women blacklist, report a scam to make "
+"dating scammers pictures, name, email,vscam letters visible to everyone and "
+"benefit the unique service of Russian and Ukrainian women identity, "
+"background, pictures, e-mail, visa, travel documents, address official and "
+"express verifications."
+msgstr ""
+"AntiArnaques est le SEUL site interactif francophone où les hommes "
+"s’entraident dans la lutte contre les arnaques sentimentales de l’Europe de "
+"l’Est : Russie, Ukraine, Bielorussie et autres pays. Les membres du site "
+"peuvent participer dans le forum dédié aux arnaques femmes russes sur "
+"internet: arnaque mail, arnaque sites de rencontres gratuits, arnaque agence "
+"matrimoniale russe, arnaque annonces le bon coin, avis agences matrimoniales "
+"russes, témoignages discuter autres sujets liés aux arnaques en ligne des "
+"femmes de Russie et Ukraine, voir la liste des femmes russes - "
+"professionnelles en arnaques sentimentales, signaler et dénoncer une arnaque "
+"internet de la femme russe ou ukrainienne en ajoutant son nom et ses photos "
+"sur la liste noire, profiter des services UNIQUES de la vérification de "
+"l'adresse, photo, passeport, téléphone, visa des femmes russes ou "
+"ukrainiennes si vous envisagez de faire venir une femme de Russie ou Ukraine "
+"en France, Belgique, Suisse, Canada. Si vous êtes victime d’une arnaque "
+"internet sentimentale, si vous avez des doutes ou pensez que la fille russe "
+"qui vous écrit peut être un escroc vous savez que faire: une assistance "
+"tchat en ligne ou par courriel est à votre disposition pour des réponses "
+"professionnelles et gratuites à toutes vos questions sur les arnaques "
+"sentimentales des femmes russes. Notre site dédié aux arnaques internet vous "
+"permet non seulement d’être protégé contre les arnaques sentimentales des "
+"femmes russes mais faire des rencontres réelles avec des femmes russes et "
+"ukrainiennes sincères et motivées dont les annonces ont été déjà vérifiés "
+"par notre équipe."
+
+#: template-parts/sections/alerts_section.php:16
+msgid ""
+"If you are a victim of a Russian or Ukrainian dating site scam, if you have "
+"doubts or think that the Russian girl who writes you can be a scammer the "
+"team of our scam reporting website offers dating scams protection for free : "
+"online chat ad email support is available for professional and free answers "
+"to all your questions about slavic girls dating scams."
+msgstr ""
+
+#: template-parts/sections/info_section.php:5
+msgid "All about dating and marriage<br>Russian women"
+msgstr "Tout sur les rencontres et le mariage<br>des femmes russes"
+
+#: template-parts/sections/info_section.php:6
+msgid "Dimitri Berezniakov"
+msgstr "Dimitri Berezniakov"
+
+#: template-parts/sections/info_section.php:13
+msgid "Russian women dating scams blacklist"
+msgstr "Liste noire des femmes russes"
+
+#: template-parts/sections/info_section.php:17
+msgid "Verification of women's identify and intentions"
+msgstr "Vérification de l'identité des femmes de Russie et Ukraine"
+
+#: template-parts/sections/info_section.php:21
+msgid "Verified profiles of Russian and Ukrainian woman"
+msgstr "Annonces vérifiées des femmes ukrainiennes sérieuses pour mariage"
+
+#: template-parts/sections/post_section.php:17
+msgid "Active forum topics"
+msgstr "Sujets actifs"
+
+#: template-parts/sections/post_section.php:35
+msgid "Subscribe to our mailing list"
+msgstr "Abonnez-vous à notre liste de diffusion"
+
+#: template-parts/sections/post_section.php:37
+msgid ""
+"and get reports about new scammers, new scam schemes, tips on dating real "
+"Russian brides and links to verified profiles of real single Russian women."
+msgstr ""
+"et recevez les profils de nouveaux escrocs, de nouveaux schémas d'arnaque, "
+"des conseils sur rencontres avec femmes russes et des liens vers des profils "
+"vérifiés de vraies femmes russes célibataires."
+
+#: template-parts/sections/services_section.php:6
+msgid "Forum"
+msgstr "Forum"
+
+#: template-parts/sections/services_section.php:8
+msgid ""
+"Discuss slavic girls scams, Russian and Ukrainian dating sites fraud, dating "
+"scammers detection tips."
+msgstr ""
+"Discutez les arnaques sentimentales, votre expérience négative et positive "
+"dans les rencontres femmes russes et ukrainiennes."
+
+#: template-parts/sections/services_section.php:10
+#: template-parts/sections/services_section.php:19
+#: template-parts/sections/services_section.php:28
+#: template-parts/sections/services_section.php:37
+#: template-parts/sections/services_section.php:46
+#: template-parts/sections/services_section.php:55
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: template-parts/sections/services_section.php:15
+msgid "Dating sites scammers"
+msgstr "Escrocs des agences matrimoniales"
+
+#: template-parts/sections/services_section.php:17
+msgid ""
+"Review Russian dating sites scams and international marriage agencies fraud, "
+"list suspicious profiles of Russian girls scam profiles."
+msgstr ""
+"Vos avis et témoignages sur des agences matrimoniales internationales franco-"
+"russes et sites de rencontres russes."
+
+#: template-parts/sections/services_section.php:24
+msgid "Prices in Ukraine and Russia"
+msgstr "Prix en Ukraine et en Russie"
+
+#: template-parts/sections/services_section.php:26
+msgid ""
+"Don't let slavic women scammers cheat you. Find real information about "
+"travel agencies service, internet access, international passport, visa fees, "
+"plane tickets, customs in Russia and also flowers, translations, food price."
+msgstr ""
+"Les prix réels en Russie et Ukraine. Ne soyez pas arnaqué par des femmes "
+"russes et ukrainiennes et agences de voyages russes."
+
+#: template-parts/sections/services_section.php:33
+msgid "Report a dating scammer"
+msgstr "Dénoncer un escroc"
+
+#: template-parts/sections/services_section.php:35
+msgid ""
+"Use our online dating scam reporting website to list romance scammers from "
+"Russia and Ukraine. Help other men to avoid Russian love scam."
+msgstr ""
+"Signaler une arnaque sentimentale en ligne, ajouter le nom, les photos et "
+"autre information sur des escrocs de Russie et Ukraine sur la liste noire."
+
+#: template-parts/sections/services_section.php:42
+msgid "How to invite a Russian woman to your country?"
+msgstr "Comment inviter une femme russe dans votre pays?"
+
+#: template-parts/sections/services_section.php:44
+msgid ""
+"Invite a Russian or Ukrainian bride to your country: visa to US, Canada, "
+"Europe and Australia, how to be sure that this is not just an online email "
+"dating scam."
+msgstr ""
+"Faire venir une femme russe ou ukrainienne en France, Belgique, Suisse, "
+"Canada sans risque d'une arnaque sentimentale internet."
+
+#: template-parts/sections/services_section.php:51
+msgid "Check if a dating site is honest"
+msgstr "Vérifiez si un site de rencontre est honnête"
+
+#: template-parts/sections/services_section.php:53
+msgid ""
+"Learn who is really behind beautiful pictures of Russian brides on Ukrainian "
+"dating sites and Russian marriage agencies, see how dating sites scams and "
+"marriage agency fraud work."
+msgstr ""
+"Apprendre si un site de rencontre ou une agence matrimoniale franco russe "
+"veut vous arnaquer en promettant de rencontrer de belles femmes slaves "
+"\"très intéressées\" par votre profil."
+
+#: template-parts/sections/services_slider.php:9
+#: template-parts/sections/services_slider.php:17
+#: template-parts/sections/services_slider.php:25
+msgid "Check a woman from Russia and Ukraine"
+msgstr "Vérification d'une femme de Russie et d'Ukraine"
+
+#: template-parts/sections/services_slider.php:11
+#: template-parts/sections/services_slider.php:19
+#: template-parts/sections/services_slider.php:27
+msgid "Official and express verification of identity"
+msgstr "Vérification rapide de l'identité"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "Oups ! Cette page est introuvable."
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try a search?"
+#~ msgstr ""
+#~ "Il parait que rien n'est trouvé à cette location. Essayons la recherche ?"
+
+#~ msgid "Quick search of women profiles"
+#~ msgstr "Recherche rapide des femmes"
+
+#~ msgid ""
+#~ "<h2 style=\"font-size: 25px; text-align: center\">You’re just at one "
+#~ "click to see ladies profiles filtered by age. Choose the age range of "
+#~ "women you look for and click on Search</h2>"
+#~ msgstr ""
+#~ "<h2 style=\"font-size: 25px; text-align: center\">Vous êtes à un click de "
+#~ "voir les annonces des femmes triées par âge. Sélectionnez la tranche "
+#~ "d’âge des femmes recherchées et cliquer sur Chercher</h2>"
+
+#~ msgid "Search"
+#~ msgstr "Chercher"
+
+#~ msgid "Brides Gallery"
+#~ msgstr "Annonces des femmes"
+
+#~ msgid "Testimonials"
+#~ msgstr "Témoignages"
+
+#~ msgid "Our offices:"
+#~ msgstr "Nos bureaux:"
+
+#~ msgid "Previous page"
+#~ msgstr "Page précédente"
+
+#~ msgid "Next page"
+#~ msgstr "Page suivante"
+
+#~ msgid "Page"
+#~ msgstr "Page"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Les commentaires sont fermés."
+
+#~ msgid "Age"
+#~ msgstr "Âge"
+
+#~ msgid "Permit SMS notification from this lady"
+#~ msgstr "Autoriser la notification par SMS de cette dame"
+
+#~ msgid "Name"
+#~ msgstr "Prénom"
+
+#~ msgid "Surname"
+#~ msgstr "Nom"
+
+#~ msgid "Country"
+#~ msgstr "Pays"
+
+#~ msgid "City"
+#~ msgstr "Ville"
+
+#~ msgid "Error: '%s', file: %s"
+#~ msgstr "Erreur : '%s', fichier : %s"
+
+#~ msgid "Previous Image"
+#~ msgstr "Image précédente"
+
+#~ msgid "Next Image"
+#~ msgstr "Image suivante"
+
+#~ msgid "Pages:"
+#~ msgstr "Pages:"
+
+#~ msgid "Edit"
+#~ msgstr "Modifier"
+
+#~ msgid "Black"
+#~ msgstr "Noirs"
+
+#~ msgid "Blond"
+#~ msgstr "Blonds"
+
+#~ msgid "Red"
+#~ msgstr "Roux"
+
+#~ msgid "Marron"
+#~ msgstr "Marrons"
+
+#~ msgid "Brunette"
+#~ msgstr "Brunette"
+
+#~ msgid "Chestnut"
+#~ msgstr "Châtains"
+
+#~ msgid "Chocolat"
+#~ msgstr "Chocolats"
+
+#~ msgid "Fair"
+#~ msgstr "Claire"
+
+#~ msgid "Blue"
+#~ msgstr "Bleu"
+
+#~ msgid "Brown"
+#~ msgstr "Marron"
+
+#~ msgid "Grey"
+#~ msgstr "Gris"
+
+#~ msgid "Green"
+#~ msgstr "Verts"
+
+#~ msgid "Blue-Grey"
+#~ msgstr "Bleu-gris"
+
+#~ msgid "Grey-Blue"
+#~ msgstr "Gris-bleus"
+
+#~ msgid "Grey-Green"
+#~ msgstr "Gris-vert"
+
+#~ msgid "Blue-Green"
+#~ msgstr "Bleu-vert"
+
+#~ msgid "Hazelnut"
+#~ msgstr "Noisette"
+
+#~ msgid "Green-Marron"
+#~ msgstr "Vert-marron"
+
+#~ msgid "Hazel"
+#~ msgstr "Noisette"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "Elementary"
+#~ msgstr "Élémentaire"
+
+#~ msgid "Intermediate"
+#~ msgstr "Moyen"
+
+#~ msgid "Advanced"
+#~ msgstr "Avancé"
+
+#~ msgid "Fluent"
+#~ msgstr "Couramment"
+
+#~ msgid "Single"
+#~ msgstr "Célibataire"
+
+#~ msgid "Divorced"
+#~ msgstr "Divorcée"
+
+#~ msgid "Widow"
+#~ msgstr "Veuve"
+
+#~ msgid "Accepts men of any religion"
+#~ msgstr "Accepte les hommes de toute religion"
+
+#~ msgid "Accepts man only of her religion"
+#~ msgstr "Accepte les homme de sa religion"
+
+#~ msgid "Accepts men of any race"
+#~ msgstr "S'intéresse aux hommes de toutes les ethnicités"
+
+#~ msgid "Accepts man only of her race"
+#~ msgstr "S'intéresse aux hommes de son ethnicité uniquement"
+
+#~ msgid "« Older"
+#~ msgstr "« Plus ancien"
+
+#~ msgid "Newer »"
+#~ msgstr "Plus récent »"
+
+#~ msgid "Some required fields are empty."
+#~ msgstr "Certains champs obligatoires sont vides."
+
+#~ msgid ""
+#~ "You birth date is incorrect. You are not allowed to use the website if "
+#~ "you are younger than 20 years old."
+#~ msgstr ""
+#~ "Votre date de naissance est incorrecte. Vous n'êtes pas autorisé à "
+#~ "utiliser le site Web si vous avez moins de 20 ans."
+
+#~ msgid "File can't be uploaded."
+#~ msgstr "Le fichier ne peut pas être téléchargé."
+
+#~ msgid "The profile has been filled"
+#~ msgstr "Le profil a été rempli"
+
+#~ msgid "Changes are saved. You got %s points for filing the profile"
+#~ msgstr ""
+#~ "Les changements sont enregistrées. Vous avez %s points pour le "
+#~ "remplissage du profil"
+
+#~ msgid "Changes are saved"
+#~ msgstr "Les modifications sont enregistrées"
+
+#~ msgid "Thank you for having liked us!"
+#~ msgstr "Merci de nous avoir aimé!"
+
+#~ msgid "Like us at %s"
+#~ msgstr "Aimez-nous à %s"
+
+#~ msgid "Thank you for having liked us twice!"
+#~ msgstr "Merci de nous avoir aimé deux fois!"
+
+#~ msgid "Auth code not valid"
+#~ msgstr "Code d'autorisation non valide"
+
+#~ msgid "You should be logged in."
+#~ msgstr "Vous devriez être connecté."
+
+#~ msgid "Successfully added to contact list"
+#~ msgstr "Ajouté avec succès à la liste de contacts"
+
+#~ msgid "Successfully removed from contact list"
+#~ msgstr "Supprimé avec succès de la liste de contacts"
+
+#~ msgid "You are not allowed to send like requests"
+#~ msgstr "Vous n'êtes pas autorisé à envoyer des demandes J'aime"
+
+#~ msgid "Success! Wait for her answer. %s credit was withdrawn."
+#~ msgstr "Succès! Attends sa réponse. %s crédit a (ont) été(s) retiré(s)."
+
+#~ msgid "Your answer was sent"
+#~ msgstr "Votre réponse est envoyée"
+
+#~ msgid "The message was sent"
+#~ msgstr "Le message est envoyé"
+
+#~ msgid "Confirmation letter can't send"
+#~ msgstr "La lettre de confirmation ne peut pas envoyer"
+
+#~ msgid ""
+#~ "To confirm your identity, please, follow the link that was sent to you by "
+#~ "email. If you can't see it, please, check your spam folder."
+#~ msgstr ""
+#~ "Pour confirmer votre identité, suivez le lien qui vous a été envoyé par "
+#~ "courrier électronique. Si vous ne le voyez pas, veuillez vérifier votre "
+#~ "dossier de courrier indésirable."
+
+#~ msgid "Please input correct email!"
+#~ msgstr "Veuillez entrer email correct !"
+
+#~ msgid "[%s] Your friend invites you"
+#~ msgstr "[%s] Votre ami vous invite"
+
+#~ msgid ""
+#~ "Your friend %s invites you to get registered on our site %s. Please use "
+#~ "this link %s to proceed!"
+#~ msgstr ""
+#~ "Votre ami %s vous invite à vous inscrire sur notre site %s. Veuillez "
+#~ "utiliser ce lien %s pour continuer!"
+
+#~ msgid "You successfully send invite to %s"
+#~ msgstr "Vous avez réussi à envoyer une invitation à %s"
+
+#~ msgid "You can't edit message with reply."
+#~ msgstr "Vous ne pouvez pas modifier le message avec une réponse."
+
+#~ msgid "The message was sent. %s credit was withdrawn."
+#~ msgstr "Le message est envoyé. %s crédit a (ont) été(s) retiré(s)."
+
+#~ msgid ""
+#~ "Twenty Fifteen requires at least WordPress version 4.1. You are running "
+#~ "version %s. Please upgrade and try again."
+#~ msgstr ""
+#~ "Vingt quinze nécessite au moins la version 4.1 de WordPress. Vous "
+#~ "utilisez la version %s. Veuillez mettre à niveau et réessayer."
+
+#~ msgid "Lastname"
+#~ msgstr "Nom"
+
+#~ msgid "Translator"
+#~ msgstr "Traducteur"
+
+#~ msgid "Phone"
+#~ msgstr "Numéro de téléphone"
+
+#~ msgid "Testimonial"
+#~ msgstr "Témoignage"
+
+#~ msgid "Testimonial Category"
+#~ msgstr "Catégorie de témoignage"
+
+#~ msgid ""
+#~ "Email is not confirmed. <a href=\"#\" class=\"email_confirmation_link\" "
+#~ "data-email=\"%s\">Please, confirm your email.</a>"
+#~ msgstr ""
+#~ "L'e-mail n'est pas confirmé. <a href=\"#\" class=\"email_confirmation_link"
+#~ "\" data-email=\"%s\">S'il vous plaît, confirmer votre e-mail.</a>"
+
+#~ msgid "Confirm your email, please"
+#~ msgstr "Confirmez votre e-mail, s'il vous plaît"
+
+#~ msgid "Confirmation link was sent to your email"
+#~ msgstr "Le lien de confirmation a été envoyé à votre adresse email"
+
+#~ msgid "Your message can't be longer than %s characters"
+#~ msgstr "Votre message ne peut pas dépasser %s caractères"
+
+#~ msgid "The message can't be send"
+#~ msgstr "Le message ne peut pas être envoyé"
+
+#~ msgid "File can't be uploaded"
+#~ msgstr "Le fichier ne peut pas être téléchargé"
+
+#~ msgid "more"
+#~ msgstr "plus"
+
+#~ msgid "You have got not enough credits, buy them to send a message."
+#~ msgstr ""
+#~ "Vous n'avez pas assez de crédits, achetez-les pour envoyer un message."
+
+#~ msgid "You have got not enough credits, buy them to send the like request."
+#~ msgstr ""
+#~ "Vous n'avez pas assez de crédits, achetez-les pour envoyer la demande de "
+#~ "j'aime."
+
+#~ msgid ""
+#~ "Please fill your profile to be able to send messages, it will take just a "
+#~ "couple of minutes. A fully completed profile gives you 7 extra credits "
+#~ "and increases the positive response rate at 60%."
+#~ msgstr ""
+#~ "Veuillez compléter votre profil avant d’envoyer les messages, ça va "
+#~ "prendre juste quelques minutes. Un profil complètement rempli augmente le "
+#~ "taux de réponses favorables de 60% et vous donne en plus 7 crédits "
+#~ "supplémentaires."
+
+#~ msgid "Wrong login or password"
+#~ msgstr "Identifiant ou mot de passe incorrect"
+
+#~ msgid " successful, redirecting..."
+#~ msgstr " réussi, redirection ..."
+
+#~ msgid "Birth date"
+#~ msgstr "Date de naissance"
+
+#~ msgid "Hair"
+#~ msgstr "Cheveux"
+
+#~ msgid "Eyes"
+#~ msgstr "Les yeux"
+
+#~ msgid "Height"
+#~ msgstr "Taille"
+
+#~ msgid "Weight"
+#~ msgstr "Poids"
+
+#~ msgid "Education"
+#~ msgstr "Formation"
+
+#~ msgid "Occupation"
+#~ msgstr "Travail"
+
+#~ msgid "Smoking"
+#~ msgstr "Fumage"
+
+#~ msgid "Drinking"
+#~ msgstr "Boit"
+
+#~ msgid "Video"
+#~ msgstr "Vidéo"
+
+#~ msgid "English"
+#~ msgstr "Anglais"
+
+#~ msgid "French"
+#~ msgstr "Français"
+
+#~ msgid "Children"
+#~ msgstr "Enfants"
+
+#~ msgid "Marital"
+#~ msgstr "Matrimonial"
+
+#~ msgid "Character and interests"
+#~ msgstr "Caractère et intérêts"
+
+#~ msgid "I'm looking for"
+#~ msgstr "Je cherche"
+
+#~ msgid "Race"
+#~ msgstr "Ethnie"
+
+#~ msgid "Religion"
+#~ msgstr "Religion"
+
+#~ msgid "Capricorn"
+#~ msgstr "Capricorne"
+
+#~ msgid "Aquarius"
+#~ msgstr "Verseau"
+
+#~ msgid "Pisces"
+#~ msgstr "Poissons"
+
+#~ msgid "Aries"
+#~ msgstr "Bélier"
+
+#~ msgid "Taurus"
+#~ msgstr "Taureau"
+
+#~ msgid "Gemini"
+#~ msgstr "Gémeaux"
+
+#~ msgid "Cancer"
+#~ msgstr "Cancer"
+
+#~ msgid "Leo"
+#~ msgstr "Leo"
+
+#~ msgid "Virgo"
+#~ msgstr "Vierge"
+
+#~ msgid "Libra"
+#~ msgstr "Balance"
+
+#~ msgid "Scorpio"
+#~ msgstr "Scorpion"
+
+#~ msgid "Sagittarius"
+#~ msgstr "Sagittaire"
+
+#~ msgid "General Settings"
+#~ msgstr "Réglages Généraux"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Réglage des thèmes"
+
+#~ msgid "Header"
+#~ msgstr "En-tête"
+
+#~ msgid "Footer"
+#~ msgstr "Pied de page"
+
+#~ msgid "Sidebar"
+#~ msgstr "Barre latérale"
+
+#~ msgid "Translations"
+#~ msgstr "Traductions"
+
+#~ msgid "Like requests"
+#~ msgstr "\"J'aime\" demandes"
+
+#~ msgid "Credits"
+#~ msgstr "Crédits"
+
+#~ msgid "You haven't got enough credits. Buy them to send the message"
+#~ msgstr ""
+#~ "Vous n'avez pas assez de crédits, achetez-les pour envoyer un message"
+
+#~ msgid "The message can't be sent"
+#~ msgstr "Le message ne peut pas être envoyé"
+
+#~ msgid ""
+#~ "The message has been sent. %s credits have been charged. We will contact "
+#~ "the lady to ask whether she's available on that day and at the time. "
+#~ "Please wait for our confirmation."
+#~ msgstr ""
+#~ "Le message est envoyé. %s crédits ont été retirés. Nous contacterons la "
+#~ "dame pour demander si elle est disponible ce jour et cette heure-là. "
+#~ "Veuillez attendre notre confirmation."
+
+#~ msgid "You do not have sufficient permission to manage points!"
+#~ msgstr ""
+#~ "Vous ne disposez pas des autorisations suffisantes pour gérer les points!"
+
+#~ msgid "User does not exist!"
+#~ msgstr "L'utilisateur avec un tel e-mail n'existe pas"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Demande d'appel"
+
+#~ msgid "Add Points"
+#~ msgstr "Ajouter des crédits"
+
+#~ msgid "Dating Profile of %s, %d from %s - Ukreine"
+#~ msgstr "Profil pour rencontre de %s, %d de %s - Ukreine"
+
+#~ msgid ""
+#~ "%s, %d from %s wants to find a single man for love and family ⭐ No scam ❌ "
+#~ "Ukrainian and Russian brides are looking to get married 💖"
+#~ msgstr ""
+#~ "%s, %d de %s veut trouver un homme célibataire pour le grand amour et "
+#~ "fonder une famille ⭐  Zéro arnaque garanti ❌"
+
+#~ msgid "Website avatar"
+#~ msgstr "Avatar du site"
+
+#~ msgid "Log out"
+#~ msgstr "Se déconnecter"
+
+#~ msgid "Email is wrong"
+#~ msgstr "E-mail eroné"
+
+#~ msgid "User with such email does not exist"
+#~ msgstr "L'utilisateur avec un tel e-mail n'existe pas"
+
+#~ msgid "Restore your password, please"
+#~ msgstr "Restaurer le mot de passe"
+
+#~ msgid "Restore password link"
+#~ msgstr "Restaurer le lien de mot de passe"
+
+#~ msgid "A letter with a link to restore password was sent to your email."
+#~ msgstr ""
+#~ "Une lettre avec un lien pour restaurer le mot de passe a été envoyée à "
+#~ "votre e-mail."
+
+#~ msgid "Email can't be posted."
+#~ msgstr "L'email ne peut pas être posté."
+
+#~ msgid "Password wasn't changed."
+#~ msgstr "Le mot de passe n'a pas été changé."
+
+#~ msgid "The error happened."
+#~ msgstr "L'erreur s'est produite."
+
+#~ msgid "Please, try to restore password again:"
+#~ msgstr "S'il vous plaît, essayez de restaurer mot de passe à nouveau:"
+
+#~ msgid "Forgot password"
+#~ msgstr "Avez-vous oublié votre mot de passe?"
+
+#~ msgid "Restore password"
+#~ msgstr "Restaurer le mot de passe"
+
+#~ msgid "Password was changed."
+#~ msgstr "Le mot de passe a été changé."
+
+#~ msgid "Password was changed. Try to login."
+#~ msgstr "Le mot de passe a été changé. Essayez de vous connecter."
+
+#~ msgid "[%s] Your username and password info"
+#~ msgstr "[%s] Votre nom d'utilisateur et mot de passe"
+
+#~ msgid "Add widgets here to appear in your sidebar."
+#~ msgstr "Ajoutez des widgets ici pour apparaître dans votre barre latérale."
+
+#~ msgid "Comment navigation"
+#~ msgstr "Navigation des commentaires"
+
+#~ msgid "Older Comments"
+#~ msgstr "Commentaires plus anciens"
+
+#~ msgid "Newer Comments"
+#~ msgstr "Commentaires récents"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Menu primaire"
+
+#~ msgid "Social Links Menu"
+#~ msgstr "Menu de liens sociaux"
+
+#~ msgid "Footer Menu Left"
+#~ msgstr "Menu de pied de page gauche"
+
+#~ msgid "Footer Menu Right"
+#~ msgstr "Menu de pied de page droite"
+
+#~ msgid "Thank you for your purchase!"
+#~ msgstr "Merci pour votre achat !"
+
+#~ msgid "Your payment did not go through successfully!"
+#~ msgstr "Votre paiement n'a pas été effectué avec succès !"
+
+#~ msgid "Click here to return to %s"
+#~ msgstr "Cliquez ici pour retourner à %s"
+
+#~ msgid "You must be logged in to purchase credits!"
+#~ msgstr "Vous devez être connecté pour acheter des crédits!"
+
+#~ msgid "You must purchase a minimum of"
+#~ msgstr "Vous devez acheter un minimum de"
+
+#~ msgid " credits!"
+#~ msgstr " crédits !"
+
+#~ msgid "Processing payment..."
+#~ msgstr "Traitement du paiement ..."
+
+#~ msgid "Return to"
+#~ msgstr "Retourner à"
+
+#~ msgid "Click here to continue if you are not automatically redirected"
+#~ msgstr ""
+#~ "Cliquez ici pour continuer si vous n'êtes pas automatiquement redirigé"
+
+#~ msgid "View"
+#~ msgstr "Voir"
+
+#~ msgid "Add credits"
+#~ msgstr "Ajouter des crédits"
+
+#~ msgid "Free"
+#~ msgstr "Gratuit"
+
+#~ msgid "Username"
+#~ msgstr "Nom d'utilisateur"
+
+#~ msgid "First name"
+#~ msgstr "Prénom"
+
+#~ msgid "Last name"
+#~ msgstr "Nom"
+
+#~ msgid "Balance"
+#~ msgstr "Solde"
+
+#~ msgid "Membership"
+#~ msgstr "Adhésion"
+
+#~ msgid "Registration date"
+#~ msgstr "Date d'inscription"
+
+#~ msgid "Dynamic pages"
+#~ msgstr "Pages dynamiques"
+
+#~ msgid "Add dynamic page"
+#~ msgstr "Ajouter une page dynamique"
+
+#~ msgid "Edit dynamic page"
+#~ msgstr "Modifier la page dynamique"
+
+#~ msgid "Dynamic page"
+#~ msgstr "Page dynamique"
+
+#~ msgid "View dynamic page"
+#~ msgstr "Voir la page dynamique"
+
+#~ msgid "Search dynamic pages"
+#~ msgstr "Chercher des pages dynamiques"
+
+#~ msgid "No dynamic pages found"
+#~ msgstr "Aucune page dynamique trouvée"
+
+#~ msgid "No dynamic pages found in Trash"
+#~ msgstr "Aucune page dynamique trouvée dans la Corbeille"
+
+#~ msgid "All dynamic pages"
+#~ msgstr "Toutes les pages dynamiques"
+
+#~ msgid "Static pages"
+#~ msgstr "Pages statiques"
+
+#~ msgid "Add static page"
+#~ msgstr "Ajouter une pages statiques"
+
+#~ msgid "Edit static page"
+#~ msgstr "Modifier la page statique"
+
+#~ msgid "Static page"
+#~ msgstr "Page statique"
+
+#~ msgid "View static page"
+#~ msgstr "Voir la page statique"
+
+#~ msgid "Search static pages"
+#~ msgstr "Chercher des pages statiques"
+
+#~ msgid "No static pages found"
+#~ msgstr "Aucune page statique trouvée"
+
+#~ msgid "No static pages found in Trash"
+#~ msgstr "Aucune page statique trouvée dans la corbeille"
+
+#~ msgid "All static pages"
+#~ msgstr "Toutes les pages statiques"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "Gift cost"
+#~ msgstr "Coût du cadeau"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid ""
+#~ "Fill required fields to send your first messages FOR FREE, fill all the "
+#~ "fields to get in addition %s FREE credits"
+#~ msgstr ""
+#~ "Remplissez les champs obligatoires pour envoyer vos premiers messages "
+#~ "GRATUITEMENT, remplissez tous les champs pour obtenir en plus %s crédits "
+#~ "GRATUITS"
+
+#~ msgid "Ukreine Options"
+#~ msgstr "Options d'Ukreine"
+
+#~ msgid "Ukreine<br/>Options"
+#~ msgstr "Options <br/> d'Ukreine"
+
+#~ msgid "Purchases"
+#~ msgstr "Achats"
+
+#~ msgid "Please, select"
+#~ msgstr "Veuillez choisir"
+
+#~ msgid "Actualization"
+#~ msgstr "Actualisation"
+
+#~ msgid "To"
+#~ msgstr "À"
+
+#~ msgid "From"
+#~ msgstr "De"
+
+#~ msgid "Available %s"
+#~ msgstr "%s disponible(s)"
+
+#~ msgid "Send gift"
+#~ msgstr "Envoyer un cadeau"
+
+#~ msgid "Send gift %s to %s"
+#~ msgstr "Envoyer un cadeau %s à %s"
+
+#~ msgid "Send gift %s"
+#~ msgstr "Envoyer un cadeau %s"
+
+#~ msgid "Ask if she likes me"
+#~ msgstr "Savoir si la femme est interessée par mon profil"
+
+#~ msgid "Ask %s if she likes me"
+#~ msgstr "Savoir %s si la femme est interessée de mon profil"
+
+#~ msgid "Send message"
+#~ msgstr "Envoyer le message"
+
+#~ msgid "Send message to %s"
+#~ msgstr "Envoyer le message à %s"
+
+#~ msgid "Send attachments"
+#~ msgstr "Envoyer des pièces jointes"
+
+#~ msgid "Send %s attachments to %s"
+#~ msgstr "Envoyer %s pièces jointes à %s"
+
+#~ msgid "Call request"
+#~ msgstr "Demande d'appel"
+
+#~ msgid "Call request %s(%s) at %s between %s and %s"
+#~ msgstr "Demande d'appel %s(%s) à %s entre %s et %s"
+
+#~ msgid "PayPal"
+#~ msgstr "PayPal"
+
+#~ msgid "PayPal payment %s amount %s"
+#~ msgstr "Paiement PayPal %s montant %s"
+
+#~ msgid "Register"
+#~ msgstr "Enregistrer"
+
+#~ msgid "Bonus for new user"
+#~ msgstr "Bonus pour nouvel utilisateur"
+
+#~ msgid "System event: Add credits"
+#~ msgstr "Evénement de système: Ajouter des crédits"
+
+#~ msgid "Unknown type"
+#~ msgstr "Type inconnu"
+
+#~ msgid "Bonus balanse changed"
+#~ msgstr "Solde des bonus changé"
+
+#~ msgid "Frontend sizes"
+#~ msgstr "Tailles frontales"
+
+#~ msgid "Page size in frontend"
+#~ msgstr "Taille de la page en frontal"
+
+#~ msgid "Page size in backend"
+#~ msgstr "Page size in backend"
+
+#~ msgid "Listing size for front-end"
+#~ msgstr "Taille de l'annonce pour le frontend"
+
+#~ msgid "Find by ID size for front-end"
+#~ msgstr "Rechercher par taille d'ID pour le frontend"
+
+#~ msgid "Costs and Limits"
+#~ msgstr "Coûts et limites"
+
+#~ msgid "First message cost"
+#~ msgstr "Coût du premier message"
+
+#~ msgid "Messages cost"
+#~ msgstr "Coût des messages"
+
+#~ msgid "First message attachment cost"
+#~ msgstr "Coût de la première pièce jointe"
+
+#~ msgid "Message attachments cost"
+#~ msgstr "Coût des pièces jointes"
+
+#~ msgid "Form Ask if she likes me cost"
+#~ msgstr "Le prix de la forme Demander si la femme est intéressée"
+
+#~ msgid "Form Ask if she likes me maximum count in a day"
+#~ msgstr ""
+#~ "Le maximum pour la forme Demander si la femme est intéressée par jour"
+
+#~ msgid "Form Call Me minimal cost"
+#~ msgstr "Formulaire \"Appelez-moi\" coût minimal"
+
+#~ msgid "Form Call Me form id (English)"
+#~ msgstr "Formulaire \"Appelez-moi\" ID (anglais)"
+
+#~ msgid "Form Call Me form id (French)"
+#~ msgstr "Formulaire \"Appelez-moi\" ID (français)"
+
+#~ msgid "Bonus page social info"
+#~ msgstr "Page bonus info sociale"
+
+#~ msgid "FAQ info page"
+#~ msgstr "Page d'info FAQ"
+
+#~ msgid "Settings and Categories"
+#~ msgstr "Paramètres et catégories"
+
+#~ msgid "Set watermark file"
+#~ msgstr "Définir le fichier de filigrane"
+
+#~ msgid "Set file store in days"
+#~ msgstr "Définir le magasin de fichiers en jours"
+
+#~ msgid "Set girls content category"
+#~ msgstr "Définir la catégorie de contenu filles"
+
+#~ msgid "Set coma separated faq content static pages"
+#~ msgstr ""
+#~ "Définir des pages statiques de contenu faq séparées par des virgules"
+
+#~ msgid "Set date forms (English)"
+#~ msgstr "Définir les formulaires de date (anglais)"
+
+#~ msgid "Set date forms (French)"
+#~ msgstr "Définir les formulaires de date (français)"
+
+#~ msgid "Set girls form id"
+#~ msgstr "Définir ID des formes de dames"
+
+#~ msgid "Templates settings"
+#~ msgstr "Paramètres des modèles"
+
+#~ msgid "Set bonus text (English)"
+#~ msgstr "Définir le texte du bonus (anglais)"
+
+#~ msgid "Set bonus text (French)"
+#~ msgstr "Définir le texte du bonus (français)"
+
+#~ msgid "Set footer copyright data"
+#~ msgstr "Définir les données de copyright de pied de page"
+
+#~ msgid "Say if she likes me English Yes"
+#~ msgstr "Dire si elle m'aime Anglais Oui"
+
+#~ msgid "Say if she likes me English No"
+#~ msgstr "Dire si elle m'aime Anglais Non"
+
+#~ msgid "Say if she likes me French Yes"
+#~ msgstr "Dire si elle m'aime Français Oui"
+
+#~ msgid "Say if she likes me French No"
+#~ msgstr "Dire si elle m'aime Français Non"
+
+#~ msgid "Credits Price settings"
+#~ msgstr "Paramètres du Coût des crédits"
+
+#~ msgid "Set price settings"
+#~ msgstr "Définir les paramètres de prix"
+
+#~ msgid "Format settings"
+#~ msgstr "Paramètres de format"
+
+#~ msgid "Apply"
+#~ msgstr "Appliquer"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Credits for complete customer profile"
+#~ msgstr "Crédits pour profil complet du client"
+
+#~ msgid "Do not add credits for complete customer profile"
+#~ msgstr "Ne pas ajouter de crédits pour le profil complet du client"
+
+#~ msgid "Credits for like at social networks"
+#~ msgstr "Crédits pour j'aime sur les réseaux sociaux"
+
+#~ msgid "Do not add credits for like at social networks"
+#~ msgstr "Ne pas ajouter de crédits j'aime sur les réseaux sociaux"
+
+#~ msgid "Credits for referred registration"
+#~ msgstr "Crédits pour inscription référée"
+
+#~ msgid "Do not add credits for referred registration"
+#~ msgstr "Ne pas ajouter de crédits pour l'inscription référée"
+
+#~ msgid "Show %s more?"
+#~ msgstr "Montrer plus de %s?"
+
+#~ msgid "Found with your request"
+#~ msgstr "Trouvé sur votre demande"
+
+#~ msgid "Nothing found on your request"
+#~ msgstr "Rien trouvé sur votre demande"
+
+#~ msgid "Messages"
+#~ msgstr "Messages"
+
+#~ msgid "My favorite women"
+#~ msgstr "Mes femmes préférées"
+
+#~ msgid "My Profile"
+#~ msgstr "Mon profil"
+
+#~ msgid "Date Me"
+#~ msgstr "Rencontrer"
+
+#~ msgid "Gifts"
+#~ msgstr "Cadeaux"
+
+#~ msgid "Read FAQ"
+#~ msgstr "Lire FAQ"
+
+#~ msgid "Purchase Credits"
+#~ msgstr "Acheter des crédits"
+
+#~ msgid "Social party"
+#~ msgstr "Soirée de rencontres"
+
+#~ msgid "Credits Available"
+#~ msgstr "Crédits disponibles"
+
+#~ msgid ""
+#~ "Enter a member's ID. Alternatively use Search or My Contact List to find "
+#~ "the member in question."
+#~ msgstr ""
+#~ "Entrez l'ID d'un membre. Vous pouvez également utiliser Rechercher ou Ma "
+#~ "liste de contacts pour trouver le membre en question."
+
+#~ msgid "ID must be integer"
+#~ msgstr "L'ID doit être un entier"
+
+#~ msgid "Remove from contact list"
+#~ msgstr "Supprimer de la liste de contacts"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Ajouter aux favoris"
+
+#~ msgid "Add to contact list"
+#~ msgstr "Ajouter à la liste de contacts"
+
+#~ msgid "Compose new mail"
+#~ msgstr "Composer un nouveau courrier"
+
+#~ msgid "Send a gift"
+#~ msgstr "Envoyer un cadeau"
+
+#~ msgid "Skype call"
+#~ msgstr "Appel skype"
+
+#~ msgid "Close"
+#~ msgstr "Fermer"
+
+#~ msgid "Member ID"
+#~ msgstr "ID de Membre"
+
+#~ msgid "You successfully send gift %s to %s"
+#~ msgstr "Vous envoyez avec succès le cadeau %s à %s"
+
+#~ msgid "You successfully send gift %s"
+#~ msgstr "Vous envoyez avec succès le cadeau %s"
+
+#~ msgid "You successfully make PayPal transaction (code %s)"
+#~ msgstr "Vous avez réussi la transaction PayPal (code %s)"
+
+#~ msgid "You successfully make Credit Card transaction (code %s)"
+#~ msgstr ""
+#~ "Vous avez réussi à effectuer une transaction par carte de crédit (code %s)"
+
+#~ msgid "You successfully get credits with message \"%s\""
+#~ msgstr "Vous obtenez avec succès des crédits avec un message \"%s\""
+
+#~ msgid "You get credits from Administration with message \"%s\""
+#~ msgstr "Vous recevez des crédits de l'administration avec un message \"%s\""
+
+#~ msgid "You ask %s if she likes you"
+#~ msgstr "Vous demandez à %s si elle est intéressée par mon profil"
+
+#~ msgid "You send %s attachments to %s"
+#~ msgstr "Vous envoyez %s pièces jointes à %s"
+
+#~ msgid "You send message to %s"
+#~ msgstr "Vous avez envoyé le message à %s"
+
+#~ msgid "You request a call with %s at %s between %s and %s"
+#~ msgstr "Vous demandez un appel avec %s à %s entre %s et %s"
+
+#~ msgid "You have %s credits"
+#~ msgstr "Vous avez %s crédits"
+
+#~ msgid "Date after"
+#~ msgstr "Date après"
+
+#~ msgid "Date before"
+#~ msgstr "Date avant"
+
+#~ msgid "Time"
+#~ msgstr "L'Heure"
+
+#~ msgid "Message"
+#~ msgstr "Message"
+
+#~ msgid "This list is empty!"
+#~ msgstr "Cette liste est vide!"
+
+#~ msgid "Search by age"
+#~ msgstr "Recherche par âge"
+
+#~ msgid "Search by id"
+#~ msgstr "Recherche par ID"
+
+#~ msgid "Search by name"
+#~ msgstr "Recherche par prénom"
+
+#~ msgid "Search by city"
+#~ msgstr "Activer la recherche par Ville"
+
+#~ msgid "Write id"
+#~ msgstr "Écrire id"
+
+#~ msgid "Write name"
+#~ msgstr "Prénom"
+
+#~ msgid "Write city"
+#~ msgstr "Écrire la ville"
+
+#~ msgid "Age from"
+#~ msgstr "Âge de"
+
+#~ msgid "to"
+#~ msgstr "à"
+
+#~ msgid "Сhildren"
+#~ msgstr "Enfants"
+
+#~ msgid "does not matter"
+#~ msgstr "peu importe"
+
+#~ msgid "My contact list (%s members)"
+#~ msgstr "Ma liste de contacts (%s membres)"
+
+#~ msgid "Last chat"
+#~ msgstr "Dernier chat"
+
+#~ msgid "Last letter"
+#~ msgstr "Dernier lettre"
+
+#~ msgid "Recently added"
+#~ msgstr "Récemment ajouté"
+
+#~ msgid "Last activity"
+#~ msgstr "Dernière activité"
+
+#~ msgid "Your contact list is empty!"
+#~ msgstr "Votre liste de contacts est vide!"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Êtes-vous sûr?"
+
+#~ msgid "Header Logo Slogan"
+#~ msgstr "Slogan du logo de l'en-tête"
+
+#~ msgid "Save"
+#~ msgstr "Sauvegarder"
+
+#~ msgid "Your message was sent successfully. Thanks."
+#~ msgstr "Votre message a été envoyé. Merci."
+
+#~ msgid "Call me request"
+#~ msgstr "Demande d'appel"
+
+#~ msgid "Affiliate"
+#~ msgstr "Associé"
+
+#~ msgid "Please, select country"
+#~ msgstr "Veuillez choisir le pays"
+
+#~ msgid "Click to toggle"
+#~ msgstr "Cliquez pour basculer"
+
+#~ msgid "Set online together with"
+#~ msgstr "Mettre en ligne avec"
+
+#~ msgid "D"
+#~ msgstr "ID"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Résultats de recherche pour: %s"
+
+#~ msgid "Date me"
+#~ msgstr "Rencontrer"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Sign"
+#~ msgstr "Signe"
+
+#~ msgid "Back"
+#~ msgstr "Retour"
+
+#~ msgid "'"
+#~ msgstr "'"
+
+#~ msgid "Published by"
+#~ msgstr "Publié par"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Voir tous les postes de %s"
+
+#~ msgid "Blog"
+#~ msgstr "Blogue"
+
+#~ msgid "You are not logged in, please, log in to view this page"
+#~ msgstr "Vous devez être connecté pour voir cette page"
+
+#~ msgid "Please fill your profile to commit acts."
+#~ msgstr "Veuillez remplir votre profil pour commettre des actes."
+
+#~ msgid "Send a message"
+#~ msgstr "Envoyer un message"
+
+#~ msgid "Interest request"
+#~ msgstr "Demande d'intérêt"
+
+#~ msgid "Add to my favourites"
+#~ msgstr "Ajouter aux préférées"
+
+#~ msgid "Delete from favourites"
+#~ msgstr "Supprimer de la liste des favorites"
+
+#~ msgid "We on TV"
+#~ msgstr "Nous sur télé"
+
+#~ msgid "View Profile"
+#~ msgstr "Voir le profil"
+
+#~ msgid "The cost of this form sending is %s credits"
+#~ msgstr "Le coût de ce formulaire d’envoi des ID %s crédits"
+
+#~ msgid "Dialog with"
+#~ msgstr "Dialogue avec"
+
+#~ msgid "Date:"
+#~ msgstr "Date:"
+
+#~ msgid "Messages count:"
+#~ msgstr "Nombres de messages:"
+
+#~ msgid "Continue reading %s"
+#~ msgstr "Continuer à lire %s"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Rien n'a été trouvé"
+
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr ""
+#~ "Prêt à publier votre première publication? <a href=\"%1$s\">Commencez ici "
+#~ "</a>."
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "Désolé, mais rien ne correspond à vos termes de recherche. Veuillez "
+#~ "réessayer avec d'autres mots-clés."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "Il semble que nous ne pouvons pas trouver ce que vous cherchez. Peut-"
+#~ "être, la recherche peut aider."
+
+#~ msgid "Avatar"
+#~ msgstr "Avatar"
+
+#~ msgid "Avatar is required"
+#~ msgstr "Avatar est nécessaire"
+
+#~ msgid "Change"
+#~ msgstr "Changer"
+
+#~ msgid "More photos"
+#~ msgstr "Plus de photos"
+
+#~ msgid "Name is required"
+#~ msgstr "Le nom est requis"
+
+#~ msgid "Wrong name"
+#~ msgstr "Mauvais nom"
+
+#~ msgid "Last Name is required"
+#~ msgstr "Le nom est requis"
+
+#~ msgid "Wrong last name"
+#~ msgstr "Mauvais nom"
+
+#~ msgid "Email is required"
+#~ msgstr "Email est requis"
+
+#~ msgid "Wrong email"
+#~ msgstr "Email incorrect"
+
+#~ msgid "Change Password"
+#~ msgstr "Changer le mot de passe"
+
+#~ msgid "Country is required"
+#~ msgstr "Le pays est requis"
+
+#~ msgid "Wrong country"
+#~ msgstr "Mauvais pays"
+
+#~ msgid "Town"
+#~ msgstr "Ville"
+
+#~ msgid "Town is required"
+#~ msgstr "La ville est requise"
+
+#~ msgid "Wrong town"
+#~ msgstr "Mauvaise ville"
+
+#~ msgid "Birth date is required"
+#~ msgstr "Date de naissance est requis"
+
+#~ msgid "Wrong birth date"
+#~ msgstr "Mauvais date de naissance"
+
+#~ msgid "Phone is required"
+#~ msgstr "Numéro de téléphone est requis"
+
+#~ msgid "Wrong phone"
+#~ msgstr "Mauvais numéro de téléphone"
+
+#~ msgid "Occupation is required"
+#~ msgstr "La profession est requise"
+
+#~ msgid "Wrong occupation"
+#~ msgstr "Mauvaise occupation"
+
+#~ msgid "Height is required"
+#~ msgstr "La hauteur est requise"
+
+#~ msgid "Wrong height"
+#~ msgstr "Mauvaise hauteur"
+
+#~ msgid "Weight is required"
+#~ msgstr "Le poids est nécessaire"
+
+#~ msgid "Wrong weight"
+#~ msgstr "Mauvais poids"
+
+#~ msgid "Family status"
+#~ msgstr "Situation de famille"
+
+#~ msgid "Family status is required"
+#~ msgstr "L'état familial est requis"
+
+#~ msgid "Wrong family status"
+#~ msgstr "Situation de famille"
+
+#~ msgid "Children is required"
+#~ msgstr "Les enfants sont requis"
+
+#~ msgid "Wrong children"
+#~ msgstr "Pas d'enfants"
+
+#~ msgid "About me"
+#~ msgstr "À propos de moi"
+
+#~ msgid "About me is required"
+#~ msgstr "À propos de moi est requis"
+
+#~ msgid "Wrong about me"
+#~ msgstr "Faux sur moi"
+
+#~ msgid "Looking for"
+#~ msgstr "Je cherche"
+
+#~ msgid "Looking for is required"
+#~ msgstr "Le pays est requis"
+
+#~ msgid "Wrong looking for"
+#~ msgstr "Je cherche"
+
+#~ msgid "Create a New Message"
+#~ msgstr "Créer un nouveau message à"
+
+#~ msgid "Remove"
+#~ msgstr "Supprimer"
+
+#~ msgid "Add attachments"
+#~ msgstr "Ajouter des pièces jointes"
+
+#~ msgid "Send"
+#~ msgstr "Envoyer"
+
+#~ msgid "First Name"
+#~ msgstr "Prénom"
+
+#~ msgid "Name is Required"
+#~ msgstr "Prénom est requis"
+
+#~ msgid "Wrong Name"
+#~ msgstr "Prénom incorrect"
+
+#~ msgid "Last name / Nick name"
+#~ msgstr "Nom / Pseudo"
+
+#~ msgid "Lastname is Required"
+#~ msgstr "Nom est requis"
+
+#~ msgid "Wrong Lastname"
+#~ msgstr "Nom incorrect"
+
+#~ msgid "Phone is Required"
+#~ msgstr "Numéro de téléphone est requis"
+
+#~ msgid "Wrong Phone"
+#~ msgstr "Mauvais numéro de téléphone"
+
+#~ msgid "Create a New Message to"
+#~ msgstr "Créer un nouveau message à"
+
+#~ msgid "Edit The Message to"
+#~ msgstr "Modifier le message à"
+
+#~ msgid "All received messages are free."
+#~ msgstr "Tous les messages reçus sont gratuits."
+
+#~ msgid "Each sent message costs %s credits."
+#~ msgstr "Chaque message envoyé coûte %s crédits."
+
+#~ msgid "Every attachment costs %s credit."
+#~ msgstr "Chaque pièce jointe coûte %s crédit."
+
+#~ msgid "We are on TV"
+#~ msgstr "Nous sommes à la télé"
+
+#~ msgid "Restore Password"
+#~ msgstr "Restaurer le mot de passe"
+
+#~ msgid "Passwords are Required"
+#~ msgstr "Les mot de passe sont requis"
+
+#~ msgid "Passwords are not the same"
+#~ msgstr "Les mots de passe ne sont pas les mêmes"
+
+#~ msgid "Already have account?"
+#~ msgstr "Avez-vous déjà un compte?"
+
+#~ msgid "Remove from favorites"
+#~ msgstr "Retirer des favoris"
+
+#~ msgid ""
+#~ "Please <a href=\"%s\">log in</a> to be able to use all functions of our "
+#~ "portal"
+#~ msgstr ""
+#~ "Veuillez <a href=\"%s\"> vous connecter </a> pour pouvoir utiliser toutes "
+#~ "les fonctions de notre portail"
+
+#~ msgid "Or  <a href=\"%s\">register</a> if you don't have an account"
+#~ msgstr "Ou  <a href=\"%s\"> inscrivez-vous</a> si vous n'avez pas de compte"
+
+#~ msgid "Ask if she likes me (%s credits)"
+#~ msgstr "Savoir si la femme est intéressée de mon profil (%s crédits)"
+
+#~ msgid "View all blog posts"
+#~ msgstr "Regardez tous les  articles du Blog"
+
+#~ msgid "Phone calls"
+#~ msgstr "Appels téléphoniques"
+
+#~ msgid "CamShare"
+#~ msgstr "CamShare"
+
+#~ msgid "The cost of this form sending id %s credits"
+#~ msgstr "Le coût de ce formulaire d’envoi des ID %s crédits"
+
+#~ msgid "Contact Us"
+#~ msgstr "Contactez-nous"
+
+#~ msgid "Sent Mail"
+#~ msgstr "Mail envoyé"
+
+#~ msgid "Requested FAQ item not found"
+#~ msgstr "Question FAQ demandée non trouvée"
+
+#~ msgid "Maybe try another?"
+#~ msgstr "Peut-être essayer un autre?"
+
+#~ msgid "My Profiles"
+#~ msgstr "Mes profils"
+
+#~ msgid "Bonus Program"
+#~ msgstr "Programme de Bonus"
+
+#~ msgid "Virtual gifts"
+#~ msgstr "Cadeaux virtuels"
+
+#~ msgid "Delivered orders"
+#~ msgstr "Commandes livrées"
+
+#~ msgid "Customer service"
+#~ msgstr "Service Clients"
+
+#~ msgid "Bonus credits"
+#~ msgstr "Crédits de bonus"
+
+#~ msgid "Open search"
+#~ msgstr "Ouvrir la recherche"
+
+#~ msgid "Close search"
+#~ msgstr "Fermer la recherche"
+
+#~ msgid "Profiles for these search criteria are not found"
+#~ msgstr ""
+#~ "Les profils correspondant à ces critères de recherche sont introuvables"
+
+#~ msgid "Scroll To Top"
+#~ msgstr "Faire défiler vers le haut"
+
+#~ msgid "Bonus program now is inactive"
+#~ msgstr "Le programme de bonus est maintenant inactif"
+
+#~ msgid "Number of credits to purchase"
+#~ msgstr "Nombre de crédits à acheter"
+
+#~ msgid "%s Credits"
+#~ msgstr "%s Crédits"
+
+#~ msgid "€"
+#~ msgstr "€"
+
+#~ msgid "Price"
+#~ msgstr "Prix"
+
+#~ msgid "View full form details"
+#~ msgstr "Voir les détails du formulaire complet"
+
+#~ msgid ""
+#~ "Please <a class=\"login_popup_link\" href=\"#\">log in</a> to be able to "
+#~ "use all functions of our portal"
+#~ msgstr ""
+#~ "Veuillez <a href=\"%s\"> vous connecter </a> pour pouvoir utiliser toutes "
+#~ "les fonctions de notre portail"
+
+#~ msgid ""
+#~ "Or  <a class=\"registration_popup_link\" href=\"#\">register</a> if you "
+#~ "don't have an account"
+#~ msgstr "Ou  <a href=\"%s\"> inscrivez-vous</a> si vous n'avez pas de compte"
+
+#~ msgid "Form not found"
+#~ msgstr "Formulaire non trouvé"
+
+#~ msgid "You must be logged in to view this page"
+#~ msgstr "Vous devez être connecté pour voir cette page"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Inscription"
+#~ msgstr "Description"
+
+#~ msgid "RobotoLight"
+#~ msgstr "RobotoLight"
+
+#~ msgid "Connected Accounts"
+#~ msgstr "Comptes connectés"
+
+#~ msgid "Disconnect"
+#~ msgstr "Déconnecter"
+
+#~ msgid "Connect"
+#~ msgstr "Connecter"
+
+#~ msgid "Featured"
+#~ msgstr "Présenté"
+
+#~ msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+#~ msgstr ""
+#~ "Laisser un commentaire <span class=\"screen-reader-text\"> sur  %s</span>"
+
+#~ msgid "Skip to content"
+#~ msgstr "Aller au contenu"
+
+#~ msgid "Menu and widgets"
+#~ msgstr "Menu et widgets"
+
+#~ msgid "Registration"
+#~ msgstr "Se connecter"
+
+#~ msgid "Registration successful. Try to log in"
+#~ msgstr "Inscription réussi. Essayez de vous connecter"
+
+#~ msgid "<strong>ERROR</strong>: You must verify your email."
+#~ msgstr "<strong>ERREUR</strong>: Vous devez vérifier votre email."
+
+#~ msgid "Search settings"
+#~ msgstr "Paramètres de recherche"
+
+#~ msgid "Enable search by Age"
+#~ msgstr "Activer la recherche par âge"
+
+#~ msgid "Enable search by Country"
+#~ msgstr "Activer la recherche par pays"
+
+#~ msgid "Enable search by Education"
+#~ msgstr "Activer la recherche par Education"
+
+#~ msgid "Enable search by Occupation"
+#~ msgstr "Activer la recherche par Profession"
+
+#~ msgid "Enable search by Character and interests"
+#~ msgstr "Activer la recherche par Caractère et Intérêts"
+
+#~ msgid "Enable search by I'm looking for"
+#~ msgstr "Activer la recherche par Je cherche"
+
+#~ msgid "Enable search by Online"
+#~ msgstr "Activer la recherche par En ligne"
+
+#~ msgid "Enable search by Video"
+#~ msgstr "Activer la recherche par Vidéo"
+
+#~ msgid "Enable search by Height"
+#~ msgstr "Activer la recherche par Taille"
+
+#~ msgid "Enable search by Weight"
+#~ msgstr "Activer la recherche par Poids"
+
+#~ msgid "Enable search by Hair color"
+#~ msgstr "Activer la recherche par Couleur de cheveux"
+
+#~ msgid "Enable search by Eye color"
+#~ msgstr "Activer la recherche par Couleur des yeux"
+
+#~ msgid "Enable search by Smoking"
+#~ msgstr "Activer la recherche par Fumage"
+
+#~ msgid "Enable search by Drinking"
+#~ msgstr "Activer la recherche par Boire"
+
+#~ msgid "Enable search by City"
+#~ msgstr "Activer la recherche par Ville"
+
+#~ msgid "Enable search by English language"
+#~ msgstr "Activer la recherche par L'anglais"
+
+#~ msgid "Enable search by French language"
+#~ msgstr "Activer la recherche par Le français"
+
+#~ msgid "Enable search by Children"
+#~ msgstr "Activer la recherche par Enfants"
+
+#~ msgid "Be carefully! Storage time expired"
+#~ msgstr "Sois prudent! Temps de stockage expiré"
+
+#~ msgid "Attachments"
+#~ msgstr "Les pièces jointes"
+
+#~ msgid "Social options"
+#~ msgstr "Options sociales"
+
+#~ msgid "Twitter link"
+#~ msgstr "Lien Twitter"
+
+#~ msgid "Twitter use"
+#~ msgstr "Utilisation de Twitter"
+
+#~ msgid "Facebook link"
+#~ msgstr "Lien Facebook"
+
+#~ msgid "Pinterest link"
+#~ msgstr "Lien Pinterest"
+
+#~ msgid "Google+ link"
+#~ msgstr "Lien Google+"
+
+#~ msgid "Google+ use"
+#~ msgstr "Utilisation de Google+"
+
+#~ msgid "Socials settings"
+#~ msgstr "Paramètres sociaux"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Email or username"
+#~ msgstr "Email ou nom d'utilisateur"
+
+#~ msgid "Write Your phone number in \"My Profile\""
+#~ msgstr "Écrivez votre numéro de téléphone dans \"Mon profil\""
+
+#~ msgid "Write First Name in \"My Profile\""
+#~ msgstr "Écrire le prénom dans \"Mon profil\""
+
+#~ msgid "Write Last Name in \"My Profile\""
+#~ msgstr "Écrire le nom de famille dans \"Mon profil\""
+
+#~ msgid "Add Photo to \"My Profile\""
+#~ msgstr "Ajouter une photo à \"Mon profil\""
+
+#~ msgid "Good"
+#~ msgstr "Bien"
+
+#~ msgid "Base Color Scheme"
+#~ msgstr "Schéma de couleur de base"
+
+#~ msgid "Header and Sidebar Text Color"
+#~ msgstr "Couleur du texte de l'en-tête et de la barre latérale"
+
+#~ msgid ""
+#~ "Applied to the header on small screens and the sidebar on wide screens."
+#~ msgstr ""
+#~ "Appliqué à l'en-tête sur les petits écrans et la barre latérale aux "
+#~ "écrans larges."
+
+#~ msgid "Header and Sidebar Background Color"
+#~ msgstr "Couleur de fond de l'en-tête et de la barre latérale"
+
+#~ msgid "Default"
+#~ msgstr "Défaut"
+
+#~ msgid "Dark"
+#~ msgstr "Foncé"
+
+#~ msgid "Yellow"
+#~ msgstr "Jaune"
+
+#~ msgid "Pink"
+#~ msgstr "Rose"
+
+#~ msgid "Purple"
+#~ msgstr "Violet"
+
+#~ msgid "expand child menu"
+#~ msgstr "élargir le menu enfant"
+
+#~ msgid "collapse child menu"
+#~ msgstr "réduire le menu enfant"
+
+#~ msgid "Search settings succesfully saved"
+#~ msgstr "Paramètres de recherche enregistrés avec succès"
+
+#~ msgid "Search settings failed"
+#~ msgstr "Les paramètres de recherche ont échoué"
+
+#~ msgid "Found %s members"
+#~ msgstr "%s membres trouvés"
+
+#~ msgid "Message deleted successfully"
+#~ msgstr "Message supprimé avec succès"
+
+#~ msgid "Message restored successfully"
+#~ msgstr "Message restauré avec succès"
+
+#~ msgid "Message erased successfully"
+#~ msgstr "Message effacé avec succès"
+
+#~ msgid ""
+#~ "You are successfully registered. You can now log in, complete your "
+#~ "profile and start contacting single Ukrainian women for FREE"
+#~ msgstr ""
+#~ "Vous êtes enregistré avec succès. Vous pouvez maintenant vous connecter, "
+#~ "compléter votre profil et commencer à contacter GRATUITEMENT des "
+#~ "Ukrainiennes célibataires"
+
+#~ msgid "Offline"
+#~ msgstr "Hors ligne"
+
+#~ msgid "Online"
+#~ msgstr "En ligne"
+
+#~ msgid "Refill account"
+#~ msgstr "Recharger le compte"
+
+#~ msgid "Reply"
+#~ msgstr "Répondre"
+
+#~ msgid "Compose"
+#~ msgstr "Composer"
+
+#~ msgid "All messages"
+#~ msgstr "Tous les messages"
+
+#~ msgid "Delete"
+#~ msgstr "Suprimer"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurer"
+
+#~ msgid "Erase"
+#~ msgstr "Effacer"
+
+#~ msgid "Online (%s members)"
+#~ msgstr "En ligne (%s membres)"
+
+#~ msgid "Latest entries first"
+#~ msgstr "Dernières entrées en premier"
+
+#~ msgid "Age descending"
+#~ msgstr "Age décroissant"
+
+#~ msgid "Age ascending"
+#~ msgstr "Age croissant"
+
+#~ msgid "No one online right now!"
+#~ msgstr "Personne en ligne pour le moment !"
+
+#~ msgid "Find %s members"
+#~ msgstr "Trouver %s membres"
+
+#~ msgid "Online first"
+#~ msgstr "En ligne d'abord"
+
+#~ msgid "No one found by those criteria"
+#~ msgstr "Personne n'a été trouvé selon ces critères"
+
+#~ msgid "Newest"
+#~ msgstr "Le plus récent"
+
+#~ msgid "Delete selected"
+#~ msgstr "Supprimer sélectionnée"
+
+#~ msgid "This list is empty"
+#~ msgstr "Cette liste est vide"
+
+#~ msgid "Restore selected"
+#~ msgstr "Restaurer sélectionné"
+
+#~ msgid "Erase selected"
+#~ msgstr "Effacer sélectionné"
+
+#~ msgid "Your basket is empty"
+#~ msgstr "Votre panier est vide"
+
+#~ msgid "Deleted Mail"
+#~ msgstr "Mail supprimé"
+
+#~ msgid "Inbox"
+#~ msgstr "Boîte de réception"
+
+#~ msgid "Last Name"
+#~ msgstr "Nom"
+
+#~ msgid "First message is Free, other messages are %s credits"
+#~ msgstr "Le premier message est Gratuit, les autres messages sont %s crédits"
+
+#~ msgid "We in the press"
+#~ msgstr "Nous dans la presse"
+
+#~ msgid "Correspondence with %s"
+#~ msgstr "Correspondance avec %s"
+
+#~ msgid "Have account?"
+#~ msgstr "Vous avez un compte ?"
+
+#~ msgid "Sign In"
+#~ msgstr "Se connecter"
+
+#~ msgid "Referrer register %s"
+#~ msgstr "Registre référent %s"
+
+#~ msgid "You have a New Message!"
+#~ msgstr "Vous avez un nouveau message !"
+
+#~ msgid "Great news, %s! You’ve got a new letter from %s"
+#~ msgstr ""
+#~ "De bonnes nouvelles %s !  Vous avez une nouvelle lettre de la part de  %s"
+
+#~ msgid "Read it now!"
+#~ msgstr "Lisez-le maintenant !"
+
+#~ msgid "Mailing System"
+#~ msgstr "Système postal"
+
+#~ msgid "Ladies"
+#~ msgstr "Dames"
+
+#~ msgid "Online Members"
+#~ msgstr "Membres en ligne"
+
+#~ msgid "Services"
+#~ msgstr "Services"
+
+#~ msgid "Customer Service"
+#~ msgstr "Service Clients"
+
+#~ msgid "My Account"
+#~ msgstr "Mon compte"
+
+#~ msgid "Compose New Email"
+#~ msgstr "Composer un Nouveau Courrier"
+
+#~ msgid "Set %s"
+#~ msgstr "Fixer %s"
+
+#~ msgid "from %s"
+#~ msgstr "à %s"
+
+#~ msgid "Greate news, %s!!! You've got a message from"
+#~ msgstr "Bonnes nouvelles, %s!!! Vous avez un message de la part de"
+
+#~ msgid "Hello"
+#~ msgstr "Bonjour"
+
+#~ msgid "You have no rights to view this page"
+#~ msgstr "Vous n'avez aucun droit de voir cette page"
+
+#~ msgid "Return to list"
+#~ msgstr "Retourner à la liste"
+
+#~ msgid "Show not replied"
+#~ msgstr "Montrer non répondu"
+
+#~ msgid "Translator name"
+#~ msgstr "Nom du traducteur"
+
+#~ msgid "Message before"
+#~ msgstr "Message avant"
+
+#~ msgid "Message after"
+#~ msgstr "Message après"
+
+#~ msgid "Not translated"
+#~ msgstr "Non traduit"
+
+#~ msgid "History"
+#~ msgstr "Histoire"
+
+#~ msgid "Original message"
+#~ msgstr "Message original"
+
+#~ msgid "Original attachments"
+#~ msgstr "Pièces jointes originales"
+
+#~ msgid "Reply message"
+#~ msgstr "Message de réponse"
+
+#~ msgid "Dear"
+#~ msgstr "Cher"
+
+#~ msgid "Translated by"
+#~ msgstr "Trauit par"
+
+#~ msgid "Submit translation"
+#~ msgstr "Soumettre une traduction"
+
+#~ msgid "Translations not found"
+#~ msgstr "Traductions non trouvées"
+
+#~ msgid "Create new message"
+#~ msgstr "Créer un nouveau message"
+
+#~ msgid "Create"
+#~ msgstr "Créer"
+
+#~ msgid ""
+#~ "You will receive an automatic notification to your email when you get a "
+#~ "reply.\n"
+#~ "             Please also check Spam (Junk mail) folder as sometimes "
+#~ "automatic messages get there.\n"
+#~ "              If so, mark the notification as important to get all "
+#~ "further notifications to you email inbox."
+#~ msgstr ""
+#~ "Vous recevrez une notification automatique par e-mail lorsque vous "
+#~ "obtiendrez une réponse.\n"
+#~ "             Vérifiez également le dossier Spam (courrier indésirable) "
+#~ "car des messages automatiques y parviennent parfois.\n"
+#~ "              Si tel est le cas, cochez la notification comme importante "
+#~ "pour recevoir toutes les notifications supplémentaires dans votre boîte "
+#~ "de réception."
+
+#~ msgid ""
+#~ "You don't have enough credits, you can purchase credits or complete your "
+#~ "profile to have credits for free\""
+#~ msgstr ""
+#~ "Vous n'avez pas assez de crédits, vous pouvez en acheter plus ou "
+#~ "compléter votre profil pour avoir des crédits gratuitement"
+
+#~ msgid "your profile"
+#~ msgstr "votre profil"
+
+#~ msgid "%s credits"
+#~ msgstr "%s crédits"
+
+#~ msgid "First message is %s, other messages is %s"
+#~ msgstr "Le premier message est %s, les autres messages sont %s"
+
+#~ msgid "Messages is free"
+#~ msgstr "Les messages sont gratuits"
+
+#~ msgid "Max attachment size is %s"
+#~ msgstr "La taille maximale de la pièce jointe est %s"
+
+#~ msgid "First attachment is %s, other attachments are %s"
+#~ msgstr "La première pièce jointe est %s, les autres pièces jointes sont %s"
+
+#~ msgid "Attachments are free"
+#~ msgstr "Les pièces jointes sont gratuites"
+
+#~ msgid "You successfully make Credit Card"
+#~ msgstr "Vous avez réussi à faire une carte de crédit"
+
+#~ msgid "Yes, any age"
+#~ msgstr "Oui, n'importe quel âge"
+
+#~ msgid "Yes, 1-3 years"
+#~ msgstr "Oui, 1-3 ans"
+
+#~ msgid "Yes, 4-7 years"
+#~ msgstr "Oui, 4-7 ans"
+
+#~ msgid "Yes, 8-15 years"
+#~ msgstr "Oui, 8-15 ans"
+
+#~ msgid "Yes, 16-21 years"
+#~ msgstr "Oui, 16-21 ans"
+
+#~ msgid "Yes, 22 and up"
+#~ msgstr "Oui, 22 ans et plus"
+
+#~ msgid "Sort by"
+#~ msgstr "Trier par"
+
+#~ msgid "Popularity"
+#~ msgstr "Popularité"
+
+#~ msgid "Select age"
+#~ msgstr "Sélectionnez l'âge"
+
+#~ msgid "Up to 20"
+#~ msgstr "Jusqu'à 20"
+
+#~ msgid "From %s to %s"
+#~ msgstr "De %s à %s"
+
+#~ msgid "Over 50"
+#~ msgstr "Plus de 50"
+
+#~ msgid "Translations - Statistics"
+#~ msgstr "Traductions - Statistiques"
+
+#~ msgid "Translations<br/>Statistics"
+#~ msgstr "Traductions<br/>Statistiques"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistiques"
+
+#~ msgid "Replies count"
+#~ msgstr "Nombre de réponses"
+
+#~ msgid "Replies cost"
+#~ msgstr "Coût des réponses"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Translators not found"
+#~ msgstr "Traducteurs non trouvés"
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "Call me"
+#~ msgstr "Demande d'appel"
+
+#~ msgid "You haven't got permissions to send a message."
+#~ msgstr "Vous n'avez pas l'autorisation d'envoyer un message."
+
+#~ msgid "Never"
+#~ msgstr "Jamais"
+
+#~ msgid "Occasionally"
+#~ msgstr "Parfois"
+
+#~ msgid "Members"
+#~ msgstr "Membres"
+
+#~ msgid ""
+#~ "You don't have enough credits, you can purchase credits or complete your "
+#~ "profile to have credits for free"
+#~ msgstr ""
+#~ "Vous n'avez pas assez de crédits, vous pouvez en acheter plus ou "
+#~ "compléter votre profil pour avoir des crédits gratuitement"
+
+#~ msgid "Today, you have no more attempts."
+#~ msgstr "Aujourd'hui, vous n'avez plus de tentatives."
+
+#~ msgid "Select"
+#~ msgstr "Sélectionnez"
+
+#~ msgid "Translations - Options"
+#~ msgstr "Traductions - Options"
+
+#~ msgid "Translations<br/>Options"
+#~ msgstr "Traductions<br/>Options"
+
+#~ msgid "Default translation cost"
+#~ msgstr "Coût de traduction par défaut"
+
+#~ msgid "Bonus translation speed"
+#~ msgstr "Bonus de vitesse de traduction"
+
+#~ msgid "less than 24 hours"
+#~ msgstr "moins de 24 heures"
+
+#~ msgid "less than 48 hours"
+#~ msgstr "moins de 48 heures"
+
+#~ msgid "less than 72 hours"
+#~ msgstr "moins de 72 heures"
+
+#~ msgid "Unanswered posts more than 72 hours"
+#~ msgstr "Postes sans réponse plus de 72 heures"
+
+#~ msgid "Unanswered posts more than 48 hours"
+#~ msgstr "Postes sans réponse plus de 48 heures"
+
+#~ msgid "Unanswered posts more than 24 hours"
+#~ msgstr "Postes sans réponse plus de 24 heures"
+
+#~ msgid "Unanswered posts"
+#~ msgstr "Postes sans réponse "
+
+#~ msgid "Page size for translations"
+#~ msgstr "Taille de la page pour les traductions"

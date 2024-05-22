@@ -1,0 +1,36 @@
+div.stl_widget_wrapper {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  .stl_widget_menu {
+    margin: 0 0 18px;
+    ul.menu {
+      list-style: none;
+      border: none;
+      text-align: left;
+      padding: 0;
+      margin: 0;
+      li {
+        margin: 15px 0 0;
+        padding: 0 0 0 25px;
+        a {
+          display: block;
+          color: #2b2b2b;
+          font-size: 16px;
+          &:hover {
+            color: #ff6600;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+  .stl_widget_img {
+    display: block;
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  }
+}

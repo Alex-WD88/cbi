@@ -1,0 +1,7 @@
+.idea/
+.git/
+.env
+db/
+wordpress/wp-content/themes/cbi/build/
+wordpress/wp-content/themes/cbi/node_modules/
+wordpress/wp-content/old_plugins/

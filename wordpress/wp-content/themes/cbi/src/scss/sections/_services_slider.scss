@@ -1,0 +1,115 @@
+section.section_services-slider {
+  .services_slider {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+
+    .owl-stage {
+      display: flex;
+    }
+
+    .owl-stage-outer {
+        padding-bottom: 10px;
+    }
+
+    .owl-item {
+      opacity: .3;
+    }
+
+    .center {
+      opacity: 1;
+      box-shadow: 0px 0px 10px 1px #3c3d43;
+    }
+
+    .item {
+      display: flex;
+      height: 100%;
+      .item-wrapper {
+          display: flex;
+          position: relative;
+          background: #fff;
+          width: 100%;
+          max-width: 740px;
+          flex-wrap: wrap;
+          transition: .4s;
+          text-decoration: none !important;
+          .promo-text {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            background: #716a77;
+            width: 60%;
+            padding: 0 15px 25px;
+            .header-promo {              
+              .text-promo, .desc-promo p {
+                color: #fff;
+                line-height: 1.3;
+                padding-top: 1em;
+                padding-bottom: 1em;
+                font-weight: 500;
+                margin: 0;
+              }
+              .text-promo {
+                font-size: 30px;
+              }
+              .desc-promo {
+                font-size: 16px;
+              }
+            }
+          }
+        .promo-img {
+          width: 40%;
+          position: relative;
+          display: flex;
+        }
+      }
+    }
+
+    .owl-prev, .owl-next {
+      display: inline-block;
+      position: absolute;
+      top: calc(50% - 40px);
+      width: 50px;
+      height: 50px;
+      background: #fff;
+      border: 2px solid #635e5e;
+      font-size: 8px;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #635e5e;
+      z-index: 1;
+    }
+
+    .owl-prev {
+      left: 10px;
+    }
+
+    .owl-next {
+      right: 10px;
+    }
+
+    .owl-dots {
+      display: flex;
+      justify-content: center;
+      margin: 20px auto;
+      .owl-dot.active {
+        background-color: #77777b;
+        opacity: 1;
+      }
+      .owl-dot {
+        width: 8px;
+        height: 8px;
+        display: inline-block;
+        border-radius: 100%;
+        background: #000;
+        opacity: .2;
+        margin: 0 4px;
+        cursor: pointer;
+      }
+    }
+
+  }
+}

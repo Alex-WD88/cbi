@@ -1,0 +1,44 @@
+section.info_section {
+  display: block;
+  width: 100%;
+  background: #fff;
+
+  .info_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    .info_card {
+      display: flex;
+      flex-basis: 100%;
+      flex-wrap: nowrap;
+      align-items: center;
+      flex-direction: column;
+      transition: .4s;
+      margin: 10px;
+      text-align: center;
+      font-size: 15px;
+      font-weight: 500;
+
+      @include media-breakpoint-up(md) {
+        flex-basis: 50%;
+      }
+      @include media-breakpoint-up(lg) {
+        flex-basis: calc(100% / 4 - 20px);
+      }
+      img {
+        max-width: 157px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+      }
+
+      .text {
+        color: #1d1d1b;
+        font-size: 16px;
+        padding: 0 15px;
+        height: 100%;
+        margin-bottom: 18px;
+      }
+    }
+  }
+}
