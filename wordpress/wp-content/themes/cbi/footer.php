@@ -50,7 +50,7 @@
 
 <div id="cookiePopup" class="cookie-popup">
     <div class="cookie-content">
-        <p>На этой странице используются кукисы.</p>
+        <p>Для обеспечения удобства пользователей сайта используются cookies</p>
         <button id="acceptCookies" class="main-btn btn-success">Принять</button>
         <button id="closePopup" class="main-btn btn-secondary">Закрыть</button>
     </div>

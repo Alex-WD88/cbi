@@ -42,3 +42,8 @@ function trimTextContent(selector, maxLines) {
 document.addEventListener('DOMContentLoaded', () => {
     trimTextContent('.desc', 35);
 });
+
+// Вызываем функцию после загрузки DOM
+document.addEventListener('DOMContentLoaded', () => {
+    trimTextContent('.desc-promo', 2);
+});

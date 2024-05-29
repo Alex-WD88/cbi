@@ -36,7 +36,8 @@ body * {
   white-space: nowrap;
   transition: .4s;
   text-decoration: none;
-  border: none;
+  border: 1px solid #2B5D28;
+  cursor: pointer;
   &:hover {
     color: #fff;
     transform: translateY(-3px);
@@ -81,6 +82,10 @@ body * {
   box-shadow: 0 2px 5px rgba(0,0,0,.2);
   display: none;
   z-index: 1000;
+  .btn-secondary {
+    background: none;
+    color: #2B5D28;
+  }
 }
 
 .cookie-popup.show {

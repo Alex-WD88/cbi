@@ -17,11 +17,16 @@ if( $query->have_posts() ){?>
                             <p class="text-promo"><?php the_title(); ?></p>
                             <span class="desc-promo"><?php the_content(); ?></span>
                         </div>
-                        <a href="<?php the_permalink(); ?>" class="main-btn">Узнать больше</a>
+                        <span id="popup-btn-sl" class="main-btn">Узнать больше</span>
                     </div>
 
                     <div class="promo-img">
                         <?php the_post_thumbnail(); ?>
+                    </div>
+
+                    <div class="content-promo">
+                        <?php the_content(); ?>
+                        <span id="popup-btn-sl" class="main-btn">Закрыть</span>
                     </div>
 
                 </div>        

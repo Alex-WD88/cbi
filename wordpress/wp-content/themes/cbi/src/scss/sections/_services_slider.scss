@@ -14,10 +14,12 @@ section.section_services-slider {
     }
 
     .owl-item {
+      pointer-events: none;
       opacity: .3;
     }
 
     .center {
+      pointer-events: auto;
       opacity: 1;
       box-shadow: 0px 0px 10px 1px #3c3d43;
     }
@@ -41,8 +43,11 @@ section.section_services-slider {
             background: #716a77;
             width: 60%;
             padding: 0 15px 25px;
-            .header-promo {              
-              .text-promo, .desc-promo p {
+            .header-promo {  
+              position: relative;
+              padding: 0;
+              padding-bottom: 15px;            
+              .text-promo, .desc-promo {
                 color: #fff;
                 line-height: 1.3;
                 padding-top: 1em;
@@ -54,6 +59,7 @@ section.section_services-slider {
                 font-size: 30px;
               }
               .desc-promo {
+                padding: 0;
                 font-size: 16px;
               }
             }
@@ -62,6 +68,19 @@ section.section_services-slider {
           width: 40%;
           position: relative;
           display: flex;
+        }
+        .content-promo {
+          display: none;
+          position: absolute;
+          height: 100%;
+          top: 0;
+          left: 0;
+          background: #fff;
+          padding: 0 15px 25px;
+          overflow: auto;
+        }
+        .content-show {
+          display: block;
         }
       }
     }
