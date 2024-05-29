@@ -21,7 +21,9 @@ if( $query->have_posts() ){?>
                     </div>
 
                     <div class="promo-img">
+                        <span>
                         <?php the_post_thumbnail(); ?>
+                        </span>
                     </div>
 
                     <div class="content-promo">

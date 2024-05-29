@@ -5,7 +5,7 @@ jQuery(document).ready(function ($) {
         $('.news_slider').owlCarousel({
             loop:true,
             margin:10,
-            nav:true,
+            nav:false,
             dots: true,
             responsive: {
                 0: {
@@ -15,6 +15,7 @@ jQuery(document).ready(function ($) {
                     items:2,
                 },
                 992: {
+                    nav:true,
                     items: 2,
                 },
                 1200: {
