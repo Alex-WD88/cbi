@@ -13,12 +13,13 @@ window.viewport = function () {
     return {width: e[a + 'Width'], height: e[a + 'Height']};
 };
 
-import'./components/trimTextContent';
+import './components/trimTextContent';
+import './components/cookies';
 import './components/navigation';
 //import './components/post_slider';
 import './components/services_slider';
 import './components/news_slider';
-import'./components/scrollto';
+import './components/scrollto';
 
 jQuery(document).ready(function ($) {
 $(window).on('load', function() {

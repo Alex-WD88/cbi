@@ -69,3 +69,19 @@ body * {
   font-style: italic;
   font-weight: 700;
 }
+
+.cookie-popup {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,.2);
+  display: none;
+  z-index: 1000;
+}
+
+.cookie-popup.show {
+  display: block;
+}

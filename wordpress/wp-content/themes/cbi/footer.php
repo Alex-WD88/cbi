@@ -47,5 +47,14 @@
 <div class="under-footer">ООО «Центр Белинвентаризация» © 2024</div>
 
 <?php wp_footer(); ?>
+
+<div id="cookiePopup" class="cookie-popup">
+    <div class="cookie-content">
+        <p>На этой странице используются кукисы.</p>
+        <button id="acceptCookies" class="main-btn btn-success">Принять</button>
+        <button id="closePopup" class="main-btn btn-secondary">Закрыть</button>
+    </div>
+</div>
+
 </body>
 </html>
