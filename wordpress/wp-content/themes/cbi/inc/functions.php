@@ -39,3 +39,8 @@ function wrap_oembed_html( $cached_html, $url, $attr, $post_id ) {
     }
     return $cached_html;
 }
+
+add_action( 'wp_head', 'ilc_favicon');
+function ilc_favicon(){
+    echo "<link rel='shortcut icon' href='" . get_stylesheet_directory_uri() . "/favicon.ico' />" . "\n";
+}

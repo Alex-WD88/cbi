@@ -27,7 +27,7 @@ if( $query->have_posts() ){?>
                     </div>
 
                     <div class="content-promo">
-                        <?php the_content(); ?>
+                        <div class="content_text"><?php the_content(); ?></div>
                         <span id="popup-btn-sl" class="main-btn">Закрыть</span>
                     </div>
 

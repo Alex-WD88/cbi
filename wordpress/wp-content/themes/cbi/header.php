@@ -17,6 +17,12 @@
         </a>
     </div>
 
+    <div class="logo_mob">
+        <a href="<?php echo home_url(); ?>">
+            <img src="<?php echo get_template_directory_uri() . '/src/images/logo_mob.png'; ?>" alt="logo">
+        </a>
+    </div>
+
     <div class="top-header">
         <div class="container">
             <div class="flex-wrap-haeder">

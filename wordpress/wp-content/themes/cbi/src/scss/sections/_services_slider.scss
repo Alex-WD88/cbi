@@ -24,6 +24,14 @@ section.section_services-slider {
       box-shadow: 0px 0px 10px 1px #3c3d43;
     }
 
+    @media (max-width: 992px){ 
+      .owl-item {
+        pointer-events: auto;
+        opacity: 1;
+        box-shadow: none;
+      }
+    }
+
     .item {
       display: flex;
       height: 100%;
@@ -59,6 +67,8 @@ section.section_services-slider {
                 font-size: 30px;
               }
               .desc-promo {
+                display: block;
+                min-height: 80px;
                 padding: 0;
                 font-size: 16px;
               }
@@ -87,15 +97,27 @@ section.section_services-slider {
         .content-promo {
           display: none;
           position: absolute;
+          width: 100%;
           height: 100%;
           top: 0;
           left: 0;
           background: #fff;
-          padding: 0 15px 25px;
+          padding: 25px 15px;
           overflow: auto;
+          flex-wrap: nowrap;
+          flex-direction: column;
+          justify-content: space-between;
+
+          .content_text {
+            p {
+              margin: 0;
+              padding: 0;
+              padding-bottom: 10px;
+            }
+          }
         }
         .content-show {
-          display: block;
+          display: flex;
         }
       }
     }

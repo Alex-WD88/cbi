@@ -1,3 +1,14 @@
+
+  
+  @media (max-width: 500px){
+    .logo {
+      display: none;
+    }
+    .logo_mob {
+      display: inline-block;
+    }
+  }
+
 header#main-header {
   display: flex;
   width: 100%;
@@ -217,11 +228,18 @@ header#main-header {
     margin-left: 0;
   }
 
-  .logo {
+  .logo, .logo_mob{
     position: absolute;
     left: 0;
     bottom: 0;
   }
+  .logo {
+    display: inline-block;
+  }
+  .logo_mob {
+    display: none;
+  }
+
   .top-header {
     .adress a, .email a {
       text-decoration: none;
@@ -234,32 +252,31 @@ header#main-header {
   }
 }
 
-
-
 @media (max-width: $layout-breakpoint-small) {
-.header-wrapper {
-  position: relative;
-  padding-left: 0;
+    .header-wrapper {
+      position: relative;
+      padding-left: 0;
+  
+      .container {
+        margin-left: 0;
+      }
+  
+      .logo {
+        position: relative;
+        left: 0;
+        bottom: 0;
+      }
+        .top-header {
+          display: none;
+        }
+      #main-header {
+        width: auto;
+        height: auto;
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        top: 50%;
+      }
+    }
+   }
 
-  .container {
-    margin-left: 0;
-  }
-
-  .logo {
-    position: relative;
-    left: 0;
-    bottom: 0;
-  }
-  .top-header {
-    display: none;
-  }
-  #main-header {
-    width: auto;
-    height: auto;
-    display: inline-block;
-    position: absolute;
-    right: 0;
-    top: 50%;
-  }
-}
-}

@@ -118,6 +118,17 @@ body * {
   right: 10px;
 }
 
+.owl-prev:after,
+.owl-next:after {
+  content: url('../images/arrow/icon-arrow.png');
+}
+.owl-prev {
+}
+.owl-next {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
 .owl-dots {
   display: flex;
   justify-content: center;
